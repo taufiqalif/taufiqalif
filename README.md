@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<p align="center"><a href="https://github.com/taufiqalif" target="_blank"><img src="https://github.com/taufiqalif/Lab8Web/blob/master/img/taufiq.png" width="400"></a></p>
 
 <!-- **taufiqalif/taufiqalif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
