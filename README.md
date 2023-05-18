@@ -2,8 +2,6 @@
 
 <!-- <p align="center"><a href="https://taufiqalif.github.io" target="_blank"><img src="https://github.com/taufiqalif/Lab8Web/blob/master/img/taufiq.png" width="400"></a></p> -->
 
-<!-- **taufiqalif/taufiqalif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <h1 align="center">Hi 👋 saya Taufiq Alif</h1>
 <h3 align="center">saya petualang hebat</h3>
@@ -45,8 +43,4 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=taufiqalif&show_icons=true&locale=en" alt="taufiqalif" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taufiqalif&" alt="taufiqalif" /></p>
-
-
-
-
 
