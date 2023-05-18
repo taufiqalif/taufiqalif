@@ -6,7 +6,9 @@
 <h1 align="center">Hi 👋 saya Taufiq Alif</h1>
 <h3 align="center">saya petualang hebat</h3>
 
-<p align="left"> <img src="https:// komarev.com/ghpvc/?username=taufiqalif&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqalif" /> </p>
+<!-- <p align="left"> <img src="https:// komarev.com/ghpvc/?username=taufiqalif&label=Profile%20views&color=0e75b6&style=flat" alt="taufiqalif" /> </p> -->
+
+<p align="center"><a href="https://taufiqalif.github.io" target="_blank"><img src="https://github.com/taufiqalif/Lab8Web/blob/master/img/taufiq.png" width="400"></a></p>
 
 <p align="left"> <a href="https://github.com /ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taufiqalif" alt="taufiqalif" /></a> </p >
 
