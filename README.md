@@ -32,7 +32,7 @@
 
 - ⚡ Fakta menyenangkan **Saya pikir saya lucu**
 
-### Posting blog
+<!-- ### Posting blog -->
 <!-- BLOG-POST-LIST:MULAI -->
 <!-- BLOG-POST-LIST:END -->
 
