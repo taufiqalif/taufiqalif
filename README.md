@@ -20,7 +20,7 @@
 
 - 🤝 Saya sedang mencari bantuan untuk [-](-)
 
-- 👨‍💻 Semua proyek saya tersedia di [https://taufiqalif.github.io](https://taufiqalif.github.io)
+- 👨‍💻 Semua proyek saya tersedia di [-](-)
 
 - 📝 Saya rutin menulis artikel di [-]( -)
 
