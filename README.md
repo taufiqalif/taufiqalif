@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com /ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taufiqalif" alt="taufiqalif" /></a> </p >
 
-- 🔭 Saat ini saya sedang mengerjakan [-](-)
+<!-- - 🔭 Saat ini saya sedang mengerjakan [-](-)
 
 - 🌱 Saat ini saya sedang belajar **belajar**
 
@@ -31,7 +31,7 @@
 - 📄 Ketahui tentang pengalaman saya [-](-)
 
 - ⚡ Fakta menyenangkan **Saya pikir saya lucu**
-
+ -->
 <!-- ### Posting blog -->
 <!-- BLOG-POST-LIST:MULAI -->
 <!-- BLOG-POST-LIST:END -->
